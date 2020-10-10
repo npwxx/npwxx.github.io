@@ -7,20 +7,20 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
+  name: Nicole Woodcock
+  tagline: Web Developer
   avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: hello@webjeda.com
-  phone: 012 345 6789
-  website: blog.webjeda.com #do not add http://
-  linkedin: alandoe
-  github: sharu725
+  email: woodcock.np@gmail.com
+  phone: 250 893 9293
+  website: #do not add http://
+  linkedin: npwoodcock
+  github: npwxx
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  twitter: "@webjeda"
+  twitter:
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -30,23 +30,20 @@ sidebar:
       level: Native
 
     - idiom: French
-      level: Professional
-
-    - idiom: Spanish
-      level: Professional
+      level: Beginner
 
   interests:
-    - item: Climbing
+    - item: Hiking
       link:
 
-    - item: Snowboarding
-      link:
+    - item: Geocaching
+      link: geocaching.com
 
-    - item: Cooking
+    - item:
       link:
 
 career-profile:
-  title: Career Profile
+  title: About Me
   summary: |
     Summarise your career here lorem ipsum dolor sit amet, consectetuer
     adipiscing elit. You can [download this free resume/CV template here]().
@@ -66,9 +63,9 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+  - degree: Diploma in Massage Therapy
+    university: West Coast College Of Massage Therapy
+    time: Jan 2008 - May 2010
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -168,23 +165,32 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: Python & Django
-      level: 98%
+    # - name: HTML5 & CSS
+    #   level: 95%
 
-    - name: Javascript & jQuery
-      level: 98%
+    # - name: Javascript
+    #   level: 95%
 
-    - name: Angular
-      level: 98%
+    # - name: node.js & React.js
+    #   level: 65%
 
-    - name: HTML5 & CSS
-      level: 95%
+    - category: Languages
+      values: HTML5, CSS, SASS, Javascript(ES6), Ruby, SQL
 
-    - name: Ruby on Rails
-      level: 85%
+    - category: Front-End Frameworks
+      values: React, jQuery, Ajax, Bootstrap
 
-    - name: Sketch & Photoshop
-      level: 60%
+    - category: Back-End Frameworks
+      values: Node.js, Express, EJS
+
+    # - name: SQL & Postgres
+    #   level: 60%
+
+    - category: Systems, CMS & Databases
+      values: Git, Postgres, npm, asdf, jekyll
+
+    - category: Testing
+      values: Cypress, Mocha/Chai, Storybook, Jest
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
