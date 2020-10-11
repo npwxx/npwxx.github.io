@@ -3,7 +3,7 @@
 # Site Settings
 title: Nicole Woodcock
 url: "https://npwxx.github.io"
-baseurl: "/" #change it according to your repository name
+# baseurl: "/" #change it according to your repository name
 description: Nicole Woodcock's resume
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: turquoise # blue turquoise green berry orange ceramic

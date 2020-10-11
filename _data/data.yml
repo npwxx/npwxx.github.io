@@ -3,7 +3,7 @@
 #
 
 sidebar:
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
@@ -37,7 +37,7 @@ sidebar:
       link:
 
     - item: Geocaching
-      link: geocaching.com
+      link: www.geocaching.com
 
     - item:
       link:
@@ -45,135 +45,84 @@ sidebar:
 career-profile:
   title: About Me
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    After spending 10 years in the healthcare field, I decided to start a web development career. 
+    Being able to work on a project from start to finish and see the results has been a neat experience. 
+    I enjoy creating beautiful applications and solving problems. 
+    So far, React and css are the things I enjoy the most.
+
 education:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Web Development Bootcamp
+    university: Lighthouse Labs
+    time: August 2020 Cohort
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Currently in progress. Graduating November 2020.
+        An intensive 12 week course geared towards teaching you how to approach and learn new 
+        programming languages. The course covers various languages, frameworks, databases with 
+        a test-driven development approach. They also cover various computer science 
+        fundamentals to give you a solid base to build on. 
+        - Will Finish with a Diploma in Full-Stack Web Development
+  - degree: Web Development Career Path
+    university: Codecademy
+    time: 2020
+    details: |
+      Currently in progress. Finishing date TBD.
+        - Covers: HTML, CSS, JavaScript & React
+        - Covers: Test Driven Development, SQL & Databases for Web Development & persistant APIs
   - degree: Diploma in Massage Therapy
     university: West Coast College Of Massage Therapy
     time: Jan 2008 - May 2010
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      This was a 28 month comprehensive program aimed at teaching you anatomy, physiology, 
+      pathology and the various ways manual therapy can assist and guide a person towards 
+      resolution or management of their specific health concerns. 
+        - As a Regulated Health Profession, there are competency board exams that must be taken before starting work in the feild. 
+        - Continuing Education requirements for this profession are set on 2 year intervals
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Registered Massage Therapist
+    companies:
+      - start: November 2017
+        end: August 2020
+        name: Cardinal Point Health Centre
+      - start: January 2013
+        end: November 2017
+        name: Cedar Hill Sport Therapy Clinic
+      - start: August 2010
+        end: March 2013
+        name: WestShore Wellness and Chiropractic
+      - start: June 2010
+        end: August 2020
+        name: Locum (short-term sick or vacation leave)
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      As a sole proprietor, 
         - Bullet point
         - Bullet point
 projects:
   title: Projects
   intro: >
-    You can list your side projects or open source libraries in this
-    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    These project were completed during the Lighthouse Labs bootcamp.
   assignments:
-    - title: Velocity
-      link: "#hook"
-      tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    - title: Resource Wall
+      link: "https://github.com/npwxx/resourceWall"
+      tagline: "A single page application that allows you to save URLs & 
+      catagorize them into various different topic boards, made with jQuery, jQuery-UI, Bootstrap, SASS, Navigo, Express, PostgreSQL"
 
-    - title: DevStudio
-      link: "#"
-      tagline: "A responsive website template designed to help web developers/designers market their services."
+    - title: Scheduler
+      link: "https://github.com/npwxx/scheduler"
+      tagline: "An application that can create, edit, and delete interview appointments 
+      using HTML, SASS, React, express, SQL, jest, Storybook and Cypress."
 
-    - title: Tempo
-      link: "#"
-      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    - title: Tweeter
+      link: "https://github.com/npwxx/tweeter"
+      tagline: "A twitter clone single page application using CSS, HTML, Javascript, and jQuery."
 
-    - title: Atom
-      link: "#"
-      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-    - title: Delta
-      link: "#"
-      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-    - title: The Art of Computer Programming
-      link: "#"
-      authors: Donald E. Knuth
-      conference: Addison-Wesley, 1968
-
-    - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-      link: "#"
-      authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-      conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-    - title: A syntax directed compiler for Algol 60
-      link: "#"
-      authors: Edgar T. Irons
-      conference: "Comm. ACM 4 (1961), 51–55"
+    - title: TinyApp
+      link: "https://github.com/npwxx/tinyApp"
+      tagline: "A application used to shorten URLs using HTML, EJS, Javscript and Express."
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    # - name: HTML5 & CSS
-    #   level: 95%
-
-    # - name: Javascript
-    #   level: 95%
-
-    # - name: node.js & React.js
-    #   level: 65%
-
     - category: Languages
       values: HTML5, CSS, SASS, Javascript(ES6), Ruby, SQL
 
@@ -181,13 +130,10 @@ skills:
       values: React, jQuery, Ajax, Bootstrap
 
     - category: Back-End Frameworks
-      values: Node.js, Express, EJS
-
-    # - name: SQL & Postgres
-    #   level: 60%
+      values: Node.js, Express, EJS, ERB
 
     - category: Systems, CMS & Databases
-      values: Git, Postgres, npm, asdf, jekyll
+      values: Git, PostgreSQL, npm, asdf, jekyll
 
     - category: Testing
       values: Cypress, Mocha/Chai, Storybook, Jest
