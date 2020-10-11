@@ -45,10 +45,12 @@ sidebar:
 career-profile:
   title: About Me
   summary: |
-    After spending 10 years in the healthcare field, I decided to start a web development career. 
-    Being able to work on a project from start to finish and see the results has been a neat experience. 
-    I enjoy creating beautiful applications and solving problems. 
-    So far, React and css are the things I enjoy the most.
+    After spending 10 years in the healthcare field, I became interested in a new career in web development. 
+    I have always enjoyed analysing issues presented by my clients and using my knowledge to develope a plan
+    which supports the goals of the client. The web development field will lead to opportunities in a variety 
+    of work enviroments and allow for cuntiuous growth in my career.
+# Being able to work on a project from start to finish and see the results has been a neat experience. 
+# So far, React and css are the things I've enjoyed the most.
 
 education:
   - degree: Web Development Bootcamp
@@ -94,8 +96,7 @@ experiences:
         name: Locum (short-term sick or vacation leave)
     details: |
       As a sole proprietor, 
-        - Bullet point
-        - Bullet point
+
 projects:
   title: Projects
   intro: >
