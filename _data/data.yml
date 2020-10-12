@@ -46,9 +46,9 @@ career-profile:
   title: About Me
   summary: |
     After spending 10 years in the healthcare field, I became interested in a new career in web development. 
-    I have always enjoyed analysing issues presented by my clients and using my knowledge to develope a plan
+    I have always enjoyed analysing issues presented by my clients and using my knowledge to develop a plan
     which supports the goals of the client. The web development field will lead to opportunities in a variety 
-    of work enviroments and allow for cuntiuous growth in my career.
+    of work enviroments and allow for continuous growth in my career.
 # Being able to work on a project from start to finish and see the results has been a neat experience. 
 # So far, React and css are the things I've enjoyed the most.
 
@@ -95,15 +95,15 @@ experiences:
         end: August 2020
         name: Locum (short-term sick or vacation leave)
     details: |
-      As a sole proprietor, I managed all of my aspects of treating the client. Starting with 
-      the intake process where I had to talk with the client to see what their needs were. After the treatments 
-      I would also be responsible for processing insurance claims and documenting and maintaining the appropriate 
-      medical history, including treatment protocols. 
+      As a sole proprietor, I managed all aspects of treating the clients. Starting with 
+      the intake process where I consulted with the client to understand their needs. Along with the treatments 
+      I would also be responsible for processing insurance claims, documenting and maintaining the appropriate 
+      medical history in a secure and confidential manner. 
 
 projects:
   title: Projects
   intro: >
-    These project were completed during the Lighthouse Labs bootcamp.
+    These projects were completed during the Lighthouse Labs Bootcamp.
   assignments:
     - title: Resource Wall
       link: "https://github.com/npwxx/resourceWall"
