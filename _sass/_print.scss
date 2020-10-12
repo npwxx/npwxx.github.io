@@ -4,6 +4,31 @@
   }
   body {
     font-size: 11pt;
+    .sidebar-wrapper .name {
+      font-size: 18pt;
+    }
+    .section-title .fa-stack {
+      display: none;
+    }
+    a[href]:after {
+      display: none;
+    }
+    .main-wrapper {
+      padding-bottom: 0;
+      .section {
+        margin-bottom: 20px;
+      }
+      .projects-section .intro {
+        margin-bottom: 15px;
+      }
+      .section-title {
+        margin-bottom: 5px;
+        font-size: 15pt;
+      }
+    }
+    .skillset .item {
+      margin-bottom: 5px;
+    }
   }
 
   img.avatar {
@@ -19,8 +44,11 @@
   .sidebar-wrapper {
     position: static;
     float: right;
-    width: 40%;
+    width: 32%;
     -webkit-print-color-adjust: exact;
+    .container-block {
+      padding: 15px;
+    }
   }
 
   .remove-container.container-block {

@@ -46,9 +46,9 @@ career-profile:
   title: About Me
   summary: |
     After spending 10 years in the healthcare field, I became interested in a new career in web development. 
-    I have always enjoyed analysing issues presented by my clients and using my knowledge to develop a plan
-    which supports the goals of the client. The web development field will lead to opportunities in a variety 
-    of work enviroments and allow for continuous growth in my career.
+    I have always enjoyed analyzing issues presented by clients and using my knowledge to develop a plan
+    which supports their goals. The web development field will lead to opportunities in a variety 
+    of work environments and allow for continuous growth in my career.
 # Being able to work on a project from start to finish and see the results has been a neat experience. 
 # So far, React and css are the things I've enjoyed the most.
 
@@ -69,7 +69,7 @@ education:
     details: |
       Currently in progress. Finishing date TBD.
         - Covers: HTML, CSS, JavaScript & React
-        - Covers: Test Driven Development, SQL & Databases for Web Development & persistant APIs
+        - Covers: Test Driven Development, SQL & Databases for Web Development & APIs
   - degree: Diploma in Massage Therapy
     university: West Coast College Of Massage Therapy
     time: Jan 2008 - May 2010
@@ -95,20 +95,20 @@ experiences:
         end: August 2020
         name: Locum (short-term sick or vacation leave)
     details: |
-      As a sole proprietor, I managed all aspects of treating the clients. Starting with 
-      the intake process where I consulted with the client to understand their needs. Along with the treatments 
-      I would also be responsible for processing insurance claims, documenting and maintaining the appropriate 
+      As a sole proprietor, I managed all aspects of treating the clients in collaboration with other practitioners.
+      Starting with the intake process where I consulted with the client to understand their needs. 
+      Along with the treatments I would also be responsible for processing insurance claims, documenting and maintaining the appropriate 
       medical history in a secure and confidential manner. 
 
 projects:
   title: Projects
-  intro: >
-    These projects were completed during the Lighthouse Labs Bootcamp.
+  # intro: >
+  #   These projects were completed during the Lighthouse Labs Bootcamp.
   assignments:
     - title: Resource Wall
       link: "https://github.com/npwxx/resourceWall"
-      tagline: "A single page application that allows you to save URLs & 
-      catagorize them into various different topic boards, made with jQuery, jQuery-UI, Bootstrap, SASS, Navigo, Express, PostgreSQL"
+      tagline: "A single page application that allows the user to save URLs & 
+      categorize them into various different topic boards, made with jQuery, jQuery-UI, Bootstrap, SASS, Navigo, Express, PostgreSQL"
 
     - title: Scheduler
       link: "https://github.com/npwxx/scheduler"
@@ -117,18 +117,18 @@ projects:
 
     - title: Tweeter
       link: "https://github.com/npwxx/tweeter"
-      tagline: "A twitter clone single page application using CSS, HTML, Javascript, and jQuery."
+      tagline: "A twitter clone single page application using CSS, HTML, JavaScript, and jQuery."
 
     - title: TinyApp
       link: "https://github.com/npwxx/tinyApp"
-      tagline: "A application used to shorten URLs using HTML, EJS, Javscript and Express."
+      tagline: "An application used to shorten URLs using HTML, EJS, JavaScript and Express."
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
     - category: Languages
-      values: HTML5, CSS, SASS, Javascript(ES6), Ruby, SQL
+      values: HTML5, CSS, SASS, JavaScript (ES6), Ruby, SQL
 
     - category: Front-End Frameworks
       values: React, jQuery, Ajax, Bootstrap
