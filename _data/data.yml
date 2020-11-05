@@ -52,6 +52,48 @@ career-profile:
 # Being able to work on a project from start to finish and see the results has been a neat experience. 
 # So far, React and css are the things I've enjoyed the most.
 
+skills:
+  title: Skills &amp; Proficiency
+
+  toolset:
+    - category: Languages
+      values: HTML5, CSS, SASS, JavaScript (ES6), Ruby, SQL
+
+    - category: Front-End Frameworks
+      values: React, jQuery, Ajax, Bootstrap
+
+    - category: Back-End Frameworks
+      values: Node.js, Express, EJS, ERB
+
+    - category: Systems, CMS & Databases
+      values: Git, PostgreSQL, npm, asdf, jekyll
+
+    - category: Testing
+      values: Cypress, Mocha/Chai, Storybook, Jest
+
+projects:
+  title: Projects
+  # intro: >
+  #   These projects were completed during the Lighthouse Labs Bootcamp.
+  assignments:
+    - title: Resource Wall
+      link: "https://github.com/npwxx/resourceWall"
+      tagline: "A single page application that allows the user to save URLs & 
+      categorize them into various different topic boards, made with jQuery, jQuery-UI, Bootstrap, SASS, Navigo, Express, PostgreSQL"
+
+    - title: Scheduler
+      link: "https://github.com/npwxx/scheduler"
+      tagline: "An application that can create, edit, and delete interview appointments 
+      using HTML, SASS, React, express, SQL, jest, Storybook and Cypress."
+
+    - title: Tweeter
+      link: "https://github.com/npwxx/tweeter"
+      tagline: "A twitter clone single page application using CSS, HTML, JavaScript, and jQuery."
+
+    - title: TinyApp
+      link: "https://github.com/npwxx/tinyApp"
+      tagline: "An application used to shorten URLs using HTML, EJS, JavaScript and Express."
+
 education:
   - degree: Web Development Bootcamp
     university: Lighthouse Labs
@@ -79,6 +121,7 @@ education:
       resolution or management of their specific health concerns. 
         - As a Regulated Health Profession, there are competency board exams that must be taken before starting work in the feild. 
         - Continuing Education requirements for this profession are set on 2 year intervals
+
 experiences:
   - role: Registered Massage Therapist
     companies:
@@ -100,47 +143,7 @@ experiences:
       Along with the treatments I would also be responsible for processing insurance claims, documenting and maintaining the appropriate 
       medical history in a secure and confidential manner. 
 
-projects:
-  title: Projects
-  # intro: >
-  #   These projects were completed during the Lighthouse Labs Bootcamp.
-  assignments:
-    - title: Resource Wall
-      link: "https://github.com/npwxx/resourceWall"
-      tagline: "A single page application that allows the user to save URLs & 
-      categorize them into various different topic boards, made with jQuery, jQuery-UI, Bootstrap, SASS, Navigo, Express, PostgreSQL"
 
-    - title: Scheduler
-      link: "https://github.com/npwxx/scheduler"
-      tagline: "An application that can create, edit, and delete interview appointments 
-      using HTML, SASS, React, express, SQL, jest, Storybook and Cypress."
-
-    - title: Tweeter
-      link: "https://github.com/npwxx/tweeter"
-      tagline: "A twitter clone single page application using CSS, HTML, JavaScript, and jQuery."
-
-    - title: TinyApp
-      link: "https://github.com/npwxx/tinyApp"
-      tagline: "An application used to shorten URLs using HTML, EJS, JavaScript and Express."
-
-skills:
-  title: Skills &amp; Proficiency
-
-  toolset:
-    - category: Languages
-      values: HTML5, CSS, SASS, JavaScript (ES6), Ruby, SQL
-
-    - category: Front-End Frameworks
-      values: React, jQuery, Ajax, Bootstrap
-
-    - category: Back-End Frameworks
-      values: Node.js, Express, EJS, ERB
-
-    - category: Systems, CMS & Databases
-      values: Git, PostgreSQL, npm, asdf, jekyll
-
-    - category: Testing
-      values: Cypress, Mocha/Chai, Storybook, Jest
 
 footer: >
-  <i class="fas fa-heart"></i><span> Nicole Woodcock</span>
+  <span> Nicole Woodcock</span>
