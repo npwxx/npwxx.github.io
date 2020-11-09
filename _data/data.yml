@@ -45,10 +45,10 @@ sidebar:
 career-profile:
   title: About Me
   summary: |
-    After spending 10 years in the healthcare field, I became interested in a new career in web development. 
-    I have always enjoyed analyzing issues presented by clients and using my knowledge to develop a plan
-    which supports their goals. The web development field will lead to opportunities in a variety 
-    of work environments and allow for continuous growth in my career.
+    Full-stack web developer with 10+ years of experience in the healthcare field.
+    I have always enjoyed analyzing issues presented by clients and using my knowledge to develop a plan which supports their goals. 
+    A career in web development would allow me to continue improving people's lives while having a broader impact.
+    My attention to detail, critical thinking skills and ability to collaborate with peers allow me to solve problems effectively. 
 # Being able to work on a project from start to finish and see the results has been a neat experience. 
 # So far, React and css are the things I've enjoyed the most.
 
@@ -68,14 +68,19 @@ skills:
     - category: Systems, CMS & Databases
       values: Git, PostgreSQL, npm, asdf, jekyll
 
-    - category: Testing
-      values: Cypress, Mocha/Chai, Storybook, Jest
+    - category: Testing Libraries/ Tools
+      values: Cypress, Mocha/Chai, Storybook, Jest, rspec, circleCI
 
 projects:
   title: Projects
   # intro: >
   #   These projects were completed during the Lighthouse Labs Bootcamp.
   assignments:
+    - title: Easy Ride
+      link: "https://github.com/easy-ride-victoria/new_easy_ride"
+      tagline: "A purpose built website for the Victoria Theraputic Riding Association, to allow them to schedule rides, manage payments and track progress reports.
+      Built with React, Material UI, Rails and PostgreSQL."
+
     - title: Resource Wall
       link: "https://github.com/npwxx/resourceWall"
       tagline: "A single page application that allows the user to save URLs & 
@@ -95,23 +100,21 @@ projects:
       tagline: "An application used to shorten URLs using HTML, EJS, JavaScript and Express."
 
 education:
-  - degree: Web Development Bootcamp
+  - degree: Diploma of Web Development
     university: Lighthouse Labs
-    time: August 2020 Cohort
+    time: August 2020 - November 2020
     details: |
-      Currently in progress. Graduating November 2020.
         An intensive 12 week course geared towards teaching you how to approach and learn new 
         programming languages. The course covers various languages, frameworks, databases with 
         a test-driven development approach. They also cover various computer science 
         fundamentals to give you a solid base to build on. 
-        - Will Finish with a Diploma in Full-Stack Web Development
-  - degree: Web Development Career Path
-    university: Codecademy
-    time: 2020
-    details: |
-      Currently in progress. Finishing date TBD.
-        - Covers: HTML, CSS, JavaScript & React
-        - Covers: Test Driven Development, SQL & Databases for Web Development & APIs
+  # - degree: Web Development Career Path
+  #   university: Codecademy
+  #   time: 2020
+  #   details: |
+  #     Currently in progress. Finishing date TBD.
+  #       - Covers: HTML, CSS, JavaScript & React
+  #       - Covers: Test Driven Development, SQL & Databases for Web Development & APIs
   - degree: Diploma in Massage Therapy
     university: West Coast College Of Massage Therapy
     time: Jan 2008 - May 2010
@@ -142,8 +145,6 @@ experiences:
       Starting with the intake process where I consulted with the client to understand their needs. 
       Along with the treatments I would also be responsible for processing insurance claims, documenting and maintaining the appropriate 
       medical history in a secure and confidential manner. 
-
-
 
 footer: >
   <span> Nicole Woodcock</span>
