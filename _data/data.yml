@@ -68,7 +68,7 @@ skills:
     - category: Systems, CMS & Databases
       values: Git, PostgreSQL, npm, asdf, jekyll
 
-    - category: Testing Libraries/ Tools
+    - category: Testing
       values: Cypress, Mocha/Chai, Storybook, Jest, rspec, circleCI
 
 projects:
@@ -83,13 +83,13 @@ projects:
 
     - title: Resource Wall
       link: "https://github.com/npwxx/resourceWall"
-      tagline: "A single page application that allows the user to save URLs & 
-      categorize them into various different topic boards, made with jQuery, jQuery-UI, Bootstrap, SASS, Navigo, Express, PostgreSQL"
+      tagline: "A SPA to save URLs & categorize them into various different topic boards. 
+      Made with jQuery, jQuery-UI, Bootstrap, SASS, Navigo, Express, PostgreSQL"
 
     - title: Scheduler
       link: "https://github.com/npwxx/scheduler"
-      tagline: "An application that can create, edit, and delete interview appointments 
-      using HTML, SASS, React, express, SQL, jest, Storybook and Cypress."
+      tagline: "A CRUD application for interview appointments. Build with 
+      SASS, React, express, SQL, jest, Storybook and Cypress."
 
     - title: Tweeter
       link: "https://github.com/npwxx/tweeter"
@@ -143,7 +143,7 @@ experiences:
     details: |
       As a sole proprietor, I managed all aspects of treating the clients in collaboration with other practitioners.
       Starting with the intake process where I consulted with the client to understand their needs. 
-      Along with the treatments I would also be responsible for processing insurance claims, documenting and maintaining the appropriate 
+      Along with the treatments I would also be responsible for processing insurance claims and documenting the 
       medical history in a secure and confidential manner. 
 
 footer: >
