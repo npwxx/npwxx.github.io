@@ -37,7 +37,7 @@ sidebar:
       link:
 
     - item: Geocaching
-      link: 
+      link:
 
     - item: Board Games & Puzzles
       link:
@@ -46,10 +46,10 @@ career-profile:
   title: About Me
   summary: |
     Full-stack web developer with 10+ years of experience in the healthcare field.
-    I have always enjoyed analyzing issues presented by clients and using my knowledge to develop a plan which supports their goals. 
+    I have always enjoyed analyzing issues presented by clients and using my knowledge to develop a plan which supports their goals.
     A career in web development would allow me to continue improving people's lives while having a broader impact.
-    My attention to detail, critical thinking skills and ability to collaborate with peers allow me to solve problems effectively. 
-# Being able to work on a project from start to finish and see the results has been a neat experience. 
+    My attention to detail, critical thinking skills and ability to collaborate with peers allow me to solve problems effectively.
+# Being able to work on a project from start to finish and see the results has been a neat experience.
 # So far, React and css are the things I've enjoyed the most.
 
 skills:
@@ -76,6 +76,10 @@ projects:
   # intro: >
   #   These projects were completed during the Lighthouse Labs Bootcamp.
   assignments:
+    - title: ListKeeper
+      link: "https://github.com/ListKeeper/ListKeeper"
+      tagline: "An emergency contact app disguised as a TODO list. Built with Next.js, Twilio, Sendgrid, MongoDB and Vercel."
+
     - title: Easy Ride
       link: "https://github.com/easy-ride-victoria/new_easy_ride"
       tagline: "A purpose built website for the Victoria Theraputic Riding Association, to allow them to schedule rides, manage payments and track progress reports.
@@ -83,31 +87,28 @@ projects:
 
     - title: Resource Wall
       link: "https://github.com/npwxx/resourceWall"
-      tagline: "A SPA to save URLs & categorize them into various different topic boards. 
+      tagline: "A SPA to save URLs & categorize them into various different topic boards.
       Made with jQuery, jQuery-UI, Bootstrap, SASS, Navigo, Express, PostgreSQL"
 
     - title: Scheduler
       link: "https://github.com/npwxx/scheduler"
-      tagline: "A CRUD application for interview appointments. Build with 
+      tagline: "A CRUD application for interview appointments. Build with
       SASS, React, express, SQL, jest, Storybook and Cypress."
 
     - title: Tweeter
       link: "https://github.com/npwxx/tweeter"
       tagline: "A twitter clone single page application using CSS, HTML, JavaScript, and jQuery."
 
-    - title: TinyApp
-      link: "https://github.com/npwxx/tinyApp"
-      tagline: "An application used to shorten URLs using HTML, EJS, JavaScript and Express."
 
 education:
   - degree: Diploma of Web Development
     university: Lighthouse Labs
     time: August 2020 - November 2020
     details: |
-        An intensive 12 week course geared towards teaching you how to approach and learn new 
-        programming languages. The course covers various languages, frameworks, databases with 
-        a test-driven development approach. They also cover various computer science 
-        fundamentals to give you a solid base to build on. 
+        An intensive 12 week course geared towards teaching you how to approach and learn new
+        programming languages. The course covers various languages, frameworks, databases with
+        a test-driven development approach. They also cover various computer science
+        fundamentals to give you a solid base to build on.
   # - degree: Web Development Career Path
   #   university: Codecademy
   #   time: 2020
@@ -119,10 +120,10 @@ education:
     university: West Coast College Of Massage Therapy
     time: Jan 2008 - May 2010
     details: |
-      This was a 28 month comprehensive program aimed at teaching you anatomy, physiology, 
-      pathology and the various ways manual therapy can assist and guide a person towards 
-      resolution or management of their specific health concerns. 
-        - As a Regulated Health Profession, there are competency board exams that must be taken before starting work in the feild. 
+      This was a 28 month comprehensive program aimed at teaching you anatomy, physiology,
+      pathology and the various ways manual therapy can assist and guide a person towards
+      resolution or management of their specific health concerns.
+        - As a Regulated Health Profession, there are competency board exams that must be taken before starting work in the feild.
         - Continuing Education requirements for this profession are set on 2 year intervals
 
 experiences:
@@ -142,9 +143,9 @@ experiences:
         name: Locum (short-term sick or vacation leave)
     details: |
       As a sole proprietor, I managed all aspects of treating the clients in collaboration with other practitioners.
-      Starting with the intake process where I consulted with the client to understand their needs. 
-      Along with the treatments I would also be responsible for processing insurance claims and documenting the 
-      medical history in a secure and confidential manner. 
+      Starting with the intake process where I consulted with the client to understand their needs.
+      Along with the treatments I would also be responsible for processing insurance claims and documenting the
+      medical history in a secure and confidential manner.
 
 footer: >
   <span> Nicole Woodcock</span>
